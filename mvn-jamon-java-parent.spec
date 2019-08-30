@@ -4,7 +4,7 @@
 #
 Name     : mvn-jamon-java-parent
 Version  : 2.4.1
-Release  : 3
+Release  : 4
 URL      : https://sourceforge.net/code-snapshots/svn/j/ja/jamon/code/jamon-code-r3129-releases-jamon-java-parent-jamon-java-parent-2.4.1.zip
 Source0  : https://sourceforge.net/code-snapshots/svn/j/ja/jamon/code/jamon-code-r3129-releases-jamon-java-parent-jamon-java-parent-2.4.1.zip
 Source1  : https://repo1.maven.org/maven2/org/jamon/jamon-java-parent/2.4.1/jamon-java-parent-2.4.1.pom
